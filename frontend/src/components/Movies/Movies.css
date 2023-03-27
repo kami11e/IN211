@@ -1,0 +1,3 @@
+.movies-loading-error > :not(:last-child) {
+    margin-right: 10px;
+  }
